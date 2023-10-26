@@ -3,6 +3,37 @@
 
 
 
+###
+
+<div>
+    
+<p >
+</br>
+  <img alt="Donut Code" align="right" width="330" src="https://media.tenor.com/RlEQW27o7dAAAAAC/donut-code.gif">
+</p>
+ 
+
+ 
+</br>
+ 
+ 
+
+- 🔭 I’m currently working on **Atlas Project**
+
+- 🌱 I’m currently learning **Express and Typescript**
+
+
+- 📫 How to reach me **ozer-kaan@outlook.com**
+
+
+ 
+</br>
+</br>
+
+</div>
+ 
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <img src="https://skillicons.dev/icons?i=html" title="HTML">
@@ -21,6 +52,8 @@
     <img src="https://skillicons.dev/icons?i=git" title="Git">
     <img src="https://skillicons.dev/icons?i=postman" title="Postman">
     
+
+
 
 
 <h3 align="left">Connect with me:</h3>
