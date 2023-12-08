@@ -18,7 +18,7 @@
  
  
 
-- 🔭 I’m currently working on **Atlas Project**
+- 🔭 I’m currently working on **Silk Project**
 
 - 👨‍💻 I’m currently learning **Express and Typescript**
 
