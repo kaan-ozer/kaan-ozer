@@ -9,7 +9,7 @@
     
 <p >
 </br>
-  <img alt="Donut Code" align="right" width="250" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
+ 
 </p>
  
 
