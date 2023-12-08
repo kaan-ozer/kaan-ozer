@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **Atlas Project**
 
-- 🌱 I’m currently learning **Express and Typescript**
+- 👨‍💻 I’m currently learning **Express and Typescript**
 
 
 - 📫 How to reach me **ozer-kaan@outlook.com**
