@@ -22,7 +22,6 @@
 
 - 👨‍💻 I’m currently learning **Express, Angular and Typescript**
 
-
 - 📫 How to reach me **ozer-kaan@outlook.com**
 
 
@@ -32,7 +31,7 @@
 
 </div>
 
-<h3 align="left">Top Skills:</h3>
+<h3 align="left">💎 Top Skills:</h3>
 <p align="left">   
     <img src="https://skillicons.dev/icons?i=nodejs" title="Nodejs">
     <img src="https://skillicons.dev/icons?i=express" title="Express">
