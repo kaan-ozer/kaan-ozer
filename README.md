@@ -31,7 +31,14 @@
 </br>
 
 </div>
- 
+
+<h3 align="left">Top Skills:</h3>
+<img src="https://skillicons.dev/icons?i=nodejs" title="Nodejs">
+<img src="https://skillicons.dev/icons?i=express" title="Express">
+<img src="https://skillicons.dev/icons?i=typescript" title="Typescript">
+<img src="https://skillicons.dev/icons?i=javascript" title="Javascript">
+<img src="https://skillicons.dev/icons?i=mongo" title="Mongo">
+
 
 ###
 
