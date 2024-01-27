@@ -31,8 +31,9 @@
 
 </div>
 
-<h3 align="left">Top Skills:</h3>
+<h3 align="left">💎 Top Skills:</h3>
 <p align="left">   
+     <img src="https://skillicons.dev/icons?i=angular" title="angular">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Nodejs">
     <img src="https://skillicons.dev/icons?i=express" title="Express">
     <img src="https://skillicons.dev/icons?i=typescript" title="Typescript">
@@ -47,12 +48,14 @@
     <img src="https://skillicons.dev/icons?i=css" title="CSS">
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap">
     <img src="https://skillicons.dev/icons?i=javascript" title="Javascript">
+    <img src="https://skillicons.dev/icons?i=angular" title="angular">
     <img src="https://skillicons.dev/icons?i=typescript" title="Typescript">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Nodejs">
     <img src="https://skillicons.dev/icons?i=express" title="Express">
     <img src="https://skillicons.dev/icons?i=mongo" title="Mongo">
     <img src="https://skillicons.dev/icons?i=mysql" title="Mysql">
     <img src="https://skillicons.dev/icons?i=java" title="Java">
+    <img src="https://skillicons.dev/icons?i=dotnet" title="dotnet">
     <img src="https://skillicons.dev/icons?i=php" title="Php">
     <img src="https://skillicons.dev/icons?i=cs" title="Cs">
     <img src="https://skillicons.dev/icons?i=vue" title="Vue">
