@@ -17,11 +17,11 @@
 </br>
  
  
-
+<p align="center">   
 - 🔭 I’m currently working on **Silk Project**
-
+<p align="center">   
 - 👨‍💻 I’m currently learning **Express, Angular and Typescript**
-
+<p align="center">   
 - 📫 How to reach me **ozer-kaan@outlook.com**
 
 
@@ -31,8 +31,8 @@
 
 </div>
 
-<h3 align="left">💎 Top Skills:</h3>
-<p align="left">   
+<h3 align="center">💎 Top Skills:</h3>
+<p align="center">   
      <img src="https://skillicons.dev/icons?i=angular" title="angular">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Nodejs">
     <img src="https://skillicons.dev/icons?i=express" title="Express">
@@ -43,8 +43,8 @@
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <img src="https://skillicons.dev/icons?i=html" title="HTML">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">  <img src="https://skillicons.dev/icons?i=html" title="HTML">
     <img src="https://skillicons.dev/icons?i=css" title="CSS">
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap">
     <img src="https://skillicons.dev/icons?i=javascript" title="Javascript">
@@ -66,8 +66,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
  <a href="https://linkedin.com/in/kaan-özer-" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
