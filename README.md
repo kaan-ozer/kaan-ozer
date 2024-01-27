@@ -17,14 +17,15 @@
 </br>
  
  
-<p align="center">   
-- 🔭 I’m currently working on **Silk Project**
-<p align="center">   
-- 👨‍💻 I’m currently learning **Express, Angular and Typescript**
-<p align="center">   
-- 📫 How to reach me **ozer-kaan@outlook.com**
+ <div align="center">
+     
+  🔭 I’m currently working on **Silk Project**
+  
+  👨‍💻 I’m currently learning **Express, Angular and Typescript**
+ 
+  📫 How to reach me **ozer-kaan@outlook.com**
 
-
+</div>
  
 </br>
 </br>
