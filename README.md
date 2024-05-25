@@ -19,9 +19,7 @@
  
  <div align="center">
      
-  🔭 I’m currently working on **Silk Project**
   
-  👨‍💻 I’m currently learning **Nest,Express, Angular and Typescript**
  
   📫 How to reach me **ozer-kaan@outlook.com**
 
