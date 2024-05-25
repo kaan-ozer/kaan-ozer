@@ -43,7 +43,8 @@
 ###
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center">  <img src="https://skillicons.dev/icons?i=html" title="HTML">
+<p align="center">  
+    <img src="https://skillicons.dev/icons?i=html" title="HTML">
     <img src="https://skillicons.dev/icons?i=css" title="CSS">
     <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap">
     <img src="https://skillicons.dev/icons?i=javascript" title="Javascript">
@@ -51,6 +52,7 @@
     <img src="https://skillicons.dev/icons?i=typescript" title="Typescript">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Nodejs">
     <img src="https://skillicons.dev/icons?i=express" title="Express">
+<p align="center">  
     <img src="https://skillicons.dev/icons?i=mongo" title="Mongo">
     <img src="https://skillicons.dev/icons?i=mysql" title="Mysql">
     <img src="https://skillicons.dev/icons?i=java" title="Java">
