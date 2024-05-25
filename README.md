@@ -30,7 +30,7 @@
 
 </div>
 
-<h3 align="center">💎 Top Skills:</h3>
+<h3 align="center">Top Skills:</h3>
 <p align="center">   
      <img src="https://skillicons.dev/icons?i=angular" title="angular">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Nodejs">
