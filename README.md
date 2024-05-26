@@ -41,6 +41,7 @@
 
 
 ###
+</br>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">  
@@ -64,7 +65,7 @@
     <img src="https://skillicons.dev/icons?i=postman" title="Postman">
     
 
- 
+ </br></br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
