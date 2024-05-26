@@ -30,7 +30,7 @@
 
 </div>
 
-<h3 align="center">Top Skills:</h3>
+<h3 align="center">Top Skills</h3>
 <p align="center">   
      <img src="https://skillicons.dev/icons?i=angular" title="angular">
     <img src="https://skillicons.dev/icons?i=nodejs" title="Nodejs">
@@ -43,7 +43,7 @@
 ###
 </br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center">  
     <img src="https://skillicons.dev/icons?i=html" title="HTML">
     <img src="https://skillicons.dev/icons?i=css" title="CSS">
@@ -67,7 +67,7 @@
 
  </br></br>
 
-<h3 align="center">Contact:</h3>
+<h3 align="center">Contact</h3>
 <p align="center">
  <a href="https://linkedin.com/in/ozer-kaan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
