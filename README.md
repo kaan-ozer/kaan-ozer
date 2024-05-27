@@ -9,8 +9,6 @@
     
  
  
-</br>
- 
  
  <div align="center">
      
@@ -20,7 +18,6 @@
 
 </div>
  
-</br>
  
 
 </div>
@@ -36,8 +33,7 @@
 
 
 ###
-</br>
-
+ 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">  
     <img src="https://skillicons.dev/icons?i=html" title="HTML">
