@@ -81,17 +81,8 @@
  
 ###
 
-<div align="center">
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaan-ozer&show_icons=true&locale=en&layout=compact&theme=react" alt="kaan-ozer" height="150" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaan-ozer&show_icons=true&locale=en&theme=react" alt="kaan-ozer" height="150" />
-
-<img align="center" src="https://streak-stats.demolab.com?user=kaan-ozer&theme=react" alt="kaan-ozer" height="150" />
-    
-</div>
  
-###
+ 
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaan-ozer&label=Profile%20views&color=0e75b6&style=flat" alt="kaan-ozer" style= /> </p>
  
