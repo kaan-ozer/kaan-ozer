@@ -7,12 +7,7 @@
 
 <div>
     
-<p >
-</br>
  
-</p>
- 
-
  
 </br>
  
@@ -26,7 +21,7 @@
 </div>
  
 </br>
-</br>
+ 
 
 </div>
 
@@ -65,7 +60,7 @@
     <img src="https://skillicons.dev/icons?i=postman" title="Postman">
     
 
- </br></br>
+ </br> 
 
 <h3 align="center">Contact</h3>
 <p align="center">
